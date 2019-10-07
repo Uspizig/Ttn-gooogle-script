@@ -1,2 +1,2 @@
 # Ttn-gooogle-script
-Http integration of google script fir the things network 
+Http integration of google script for  The Things Network 
