@@ -10,7 +10,7 @@ To Enable this Perform the following Steps
 2. Press New: Google Spreadsheet
 3. Save the Bowser Adress: https://docs.google.com/spreadsheets/d/xxxxxxxxxx/edit#gid=0 
 4. Goto to Tools: Script Editor
-5. Paste the Code copied from The Github soure in the code section
+5. Paste the Code copied from ttnscript.txt 
 6. Replace the "YOURSheetdID" with the xxxxxx from the Browser Adress from Step 3
 7. Save and Publish -Publish as a Web App.
 8. Select Start as Me and access Everyone even Anonymous: Save the Adress that is displayed
