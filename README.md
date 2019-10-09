@@ -1,9 +1,9 @@
 # Ttn-gooogle-script
 Http integration of google script for The Things Network 
 This Post is highly inspirated by Squix78: https://blog.squix.org/2017/07/thethingsnetwork-how-to-use-google-spreadsheet-to-log-data.html
-You may visit his homepage or buy him a coffee. He does a really great work.
+You may visit his homepage or buy him a coffee. He does a really great work. Unfortuanetly his source code was not working for me. So I had to adapt it to my needs for the Paxcounter.
 
-This Script is made to enable an easy way to integrate an The Things Network to a Google Spreadsheet.
+This Script is made to enable an easy way to integrate an The Things Network to a Google Spreadsheet without the need of a HTTP Server.
 
 To Enable this Perform the following Steps
 1. Open Google Drive: https://drive.google.com/drive and login with your google account.
