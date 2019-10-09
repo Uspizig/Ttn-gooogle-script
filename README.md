@@ -19,6 +19,6 @@ To Enable this Perform the following Steps
 11. Edit the Script accoding to your needs or your payload.
 
 
-Please  be aware: This is not a secure nor a productive solutions. Everybody how knwos your Spreadsheet adress can modify your doucments.
-This is just for quick tryouts and fast analsis of data.
+Please  be aware: This is not a secure nor a productive solutions. Everybody how knows your Spreadsheet adress can modify your doucments.
+This is just for quick tryouts and fast analysis of your data.
 
