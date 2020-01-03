@@ -14,9 +14,9 @@ To Enable this Perform the following Steps
 6. Replace the "YOURSheetdID" with the xxxxxx from the Browser Adress from Step 3
 7. Save and Publish -Publish as a Web App.
 8. Select Start as Me and access Everyone even Anonymous: Save the Adress that is displayed
-9. Open in another Browser Window your The Thingspeak Account: Selcet Console -> Application -> YOUR Application -> Integartion -> HTTp Intgration
+9. Open in another Browser Window your The Thingspeak Account: Selcet Console -> Application -> YOUR Application -> Integration -> HTTP Integration
 10. Edit URL: Paste the URL from your Google Script editor Publishing, Method Post
-11. Edit the Script accoding to your needs or your payload.
+11. Edit the Script according to your needs or your payload.
 
 
 Please  be aware: This is not a secure nor a productive solutions. Everybody how knows your Spreadsheet adress can modify your doucments.
